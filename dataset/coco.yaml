@@ -9,4 +9,4 @@ names:
   0: center
 
 # Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
+download: https://github.com/Julia0419/test/blob/main/coco.zip
